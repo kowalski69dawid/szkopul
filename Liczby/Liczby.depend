@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539517582 source:/home/dawid/Programy/szkopul/Liczby/main.cpp
+	<iostream>
+	<algorithm>
+
